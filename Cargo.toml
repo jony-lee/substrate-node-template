@@ -3,6 +3,7 @@ members = [
     "node",
     "pallets/template",
     "runtime",
+    "bubble_sort_project",
 ]
 [profile.release]
 panic = "unwind"

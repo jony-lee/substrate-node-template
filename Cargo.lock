@@ -581,6 +581,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "bubble_sort_project"
+version = "0.1.0"
+
+[[package]]
 name = "build-helper"
 version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
