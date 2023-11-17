@@ -5,6 +5,7 @@ members = [
     "runtime",
     "bubble_sort_project",
     "traffic_trait",
+    "u32_sum",
 ]
 [profile.release]
 panic = "unwind"
