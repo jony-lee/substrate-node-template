@@ -4,6 +4,7 @@ members = [
     "pallets/template",
     "runtime",
     "bubble_sort_project",
+    "traffic_trait",
 ]
 [profile.release]
 panic = "unwind"
