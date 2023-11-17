@@ -6,6 +6,7 @@ members = [
     "bubble_sort_project",
     "traffic_trait",
     "u32_sum",
+    "shape_print",
 ]
 [profile.release]
 panic = "unwind"
